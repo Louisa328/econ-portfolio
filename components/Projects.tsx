@@ -198,7 +198,7 @@ const projects = [
     title: "Does Higher Occupational AI Exposure Cause Higher Probability of Self-Employment?",
     subtitle: null,
     description:
-      "Causal inference analysis using Double Machine Learning (DML) to estimate the effect of AI occupational exposure on self-employment probability. Integrates BNPL and consumer credit narratives to contextualize labor market responses to automation.",
+      "Causal inference analysis using Double Machine Learning (DML) and Difference-in-differences (DID) to estimate the effect of AI occupational exposure on self-employment probability.",
     tags: ["Causal Inference", "Double ML", "Labor Economics", "Python"],
     github: "https://github.com/Louisa328/DA-final-project",
     large: true,
@@ -236,7 +236,7 @@ const projects = [
     description:
       "Hedonic pricing models using AHS 2023 microdata. Benchmarks OLS against Ridge, Lasso, and Random Forest with log-space modeling to handle skewed price distributions.",
     tags: ["OLS", "Lasso/Ridge", "Random Forest", "scikit-learn"],
-    github: "https://github.com/Louisa328/ECON5200",
+    github: undefined,
     large: true,
     bg: "#e4e8e1",
     Illustration: ScatterSVG,
