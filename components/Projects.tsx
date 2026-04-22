@@ -198,7 +198,7 @@ const projects = [
     title: "Does Higher Occupational AI Exposure Cause Higher Probability of Self-Employment?",
     subtitle: null,
     description:
-      "Causal inference analysis using Double Machine Learning (DML) and Difference-in-differences (DID) to estimate the effect of AI occupational exposure on self-employment probability.",
+      "Causal inference analysis using Double Machine Learning (DML) and difference-in-differences (DID) to estimate the effect of AI occupational exposure on self-employment probability.",
     tags: ["Causal Inference", "Double ML", "Labor Economics", "Python"],
     github: "https://github.com/Louisa328/DA-final-project",
     large: true,
